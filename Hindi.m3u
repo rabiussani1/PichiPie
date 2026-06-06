@@ -1,1 +1,9 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="AynaOTT - Indian ENT",StarPlus HD
+https://tvsen7.aynaott.com/sphdbd/index.m3u8
+http://103.204.43.87:8080/live/1/1/250.m3u8
+
+#EXTINF:-1 tvg-logo="https://wallpapers.com/images/high/colors-tv-logo-7meur4bah5m7mm8i.webp" group-title="AynaOTT - Indian ENT",Colors HD
+http://103.204.43.87:8080/live/1/1/231.m3u8
+http://103.157.248.140:8000/play/a007/index.m3u8
