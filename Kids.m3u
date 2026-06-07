@@ -1,10 +1,12 @@
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Hindi",Khushboo
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/d90eb718a6674494d2dac28e1d96bf44" group-title="Kids",Khushboo
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc" group-title="Hindi",Manoranjan TV
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1a62a70103bac9999411a72b8a8b7ccc" group-title="Kids",Manoranjan TV
 https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/296b530024a470f52313692636810e04" group-title="Hindi",Rongeen TV
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/296b530024a470f52313692636810e04" group-title="Kids",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb" group-title="Kids",Cartoon
@@ -43,27 +45,23 @@ https://tvsen7.aynaott.com/nicklodean/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/5739277278d596533abbacc60ea694be" group-title="Kids",Teen Nick
 https://tvsen7.aynaott.com/teennick/index.m3u8
 
-#EXTINF:-1 ,Monoronjon Grand
+#EXTINF:-1 group-title="Kids",Monoronjon Grand
 http://103.175.73.12:8080/live/19/19_0.m3u8
 
-#EXTINF:-1 ,Monoronjon TV
+#EXTINF:-1 group-title="Kids",Monoronjon TV
 http://103.175.73.12:8080/live/23/23_0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",ZB Kartun
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 ,Sreemaro Josh
+#EXTINF:-1 group-title="Kids",Sreemaro Josh
 http://103.175.73.12:8080/live/21/21_0.m3u8
 
-#EXTINF:-1 tvg-logo="h" group-title="KIDS",Tom & Jarry
+#EXTINF:-1 tvg-logo="h" group-title="Kids",Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="KIDS",Jungle Book
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="Kids",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Kids",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-
-
-
-
