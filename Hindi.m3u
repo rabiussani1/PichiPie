@@ -79,3 +79,35 @@ http://103.175.73.12:8080/live/46/46_0.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHOJPURI_CINEMA/images/LOGO_HD/image.png" group-title="Movies",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 ,B4U Movies
+http://103.175.73.12:8080/live/43/43_0.m3u8
+
+#EXTINF:-1 ,B4U KADAK
+http://103.175.73.12:8080/live/44/44_0.m3u8
+http://103.229.254.25:7001/play/a08c/index.m3u8
+
+#EXTINF:-1 ,Channel ektv
+http://103.175.73.12:8080/live/15/15_0.m3u8
+
+#EXTINF:-1 ,Bog Magic
+http://103.175.73.12:8080/live/13/13_0.m3u8
+
+#EXTINF:-1 ,Dangal
+http://103.175.73.12:8080/live/17/17_0.m3u8
+
+#EXTINF:-1 ,Dangal 2
+http://103.175.73.12:8080/live/18/18_0.m3u8
+
+#EXTINF:-1 ,Anmol Cinema 2
+http://103.175.73.12:8080/live/257/257_0.m3u8
+
+#EXTINF:-1 ,Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
+
+#EXTINF:-1 ,Monoronjan prime
+http://103.175.73.12:8080/live/345/345_0.m3u8
+
+#EXTINF:-1 ,Pitara
+http://103.175.73.12:8080/live/352/352_0.m3u8
+
+
