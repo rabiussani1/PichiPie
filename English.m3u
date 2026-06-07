@@ -1,37 +1,38 @@
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Star_Movies_India.png" group-title="Hindi",StarMovies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Star_Movies_India.png",Star Movies
 http://198.195.239.50:8095/StarMovies/index.m3u8
 
-#EXTINF:-117 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png" group-title="English Movie",HBO
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",HBO
 http://23.88.66.93/HBO/index.m3u8
 http://103.213.31.111/HBOHD/index.m3u8
 
-#EXTINF:-1 ,HBO 2
+#EXTINF:-1 group-title="Movies",HBO 2
 http://23.88.66.93/HBO_2/index.m3u8
 
-#EXTINF:-1 ,HBO 3
+#EXTINF:-1 group-title="Movies",HBO 3
 http://23.88.66.93/HBO_3/index.m3u8
 
-#EXTINF:-1 ,Cinemax
+#EXTINF:-1 group-title="Movies",Cinemax
 http://23.88.66.93/Cinemax/index.m3u8
 
-#EXTINF:-1 ,Cinemax 2
+#EXTINF:-1 group-title="Movies",Cinemax 2
 http://23.88.66.93/Cinemax_2/index.m3u8
 
-#EXTINF:-1 ,Cinemania HD
+#EXTINF:-1 group-title="Movies",Cinemania HD
 http://23.88.66.93/Cinemania/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="English Movies",Action Hollywood Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 ,Colors Infinity
+#EXTINF:-1 group-title="Movies",Colors Infinity
 http://103.175.73.12:8080/live/29/29_0.m3u8
 
-#EXTINF:-1 ,Rakuten Movies
+#EXTINF:-1 group-title="Movies",Rakuten Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 
-#EXTINF:-1 ,Movie Sphere
+#EXTINF:-1 group-title="Movies",Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ,My Cinema
+#EXTINF:-1 group-title="Movies",My Cinema
 https://mytime-tcl.amagi.tv/playlist.m3u8
