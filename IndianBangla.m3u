@@ -13,11 +13,11 @@ https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 #EXTINF:-53 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla",BANGLA+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 ,group-title="Indian-Bangla",Khushboo Bangla
+#EXTINF:-1 group-title="Indian-Bangla",Khushboo Bangla
 http://103.175.73.12:8080/live/375/375_0.m3u8
 
 #EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian-Bangla",Akash Aath
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 
-#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png",DD BANGLA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TQ6bVfL/DD-BANGLA.png" group-title="Indian-Bangla",DD BANGLA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
