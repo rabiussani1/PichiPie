@@ -44,3 +44,13 @@ https://server.itcnbd.live/stream/sony_sports_2_hd.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports",SONY SPORTS 5 HD
 https://server.itcnbd.live/stream/sony_sports_5_hd.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",Motor Vision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="http://dds.oncast.me/img/logo/sp5.png",Live Sports 5
+http://103.157.248.140:8000/play/a01m/index.m3u8
+
